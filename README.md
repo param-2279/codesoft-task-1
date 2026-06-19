@@ -31,11 +31,10 @@ python3 CODESOFT.py
 
 Sample Tasks
 
-- Complete Data Structures Assignment
-- Study Python Programming for 2 Hours
-- Prepare Notes for Operating Systems
-- Complete College Mini Project
-- Revise Database Management System (DBMS)
+DO HOMEWORK 
+PREPARE NOTES 
+COMPLETE ASSIGNMENT 
+SUBMIT PROJECT 
 
 Author
 
